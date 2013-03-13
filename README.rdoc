@@ -1,0 +1,3 @@
+== Monopoly
+
+I was the team leader for this project.  It was developed from 2009-2010 and is a fully functioning monopoly game, running in Java through the command line.  It demonstrates OO concepts such as inheritance.

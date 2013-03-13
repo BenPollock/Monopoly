@@ -1,0 +1,12 @@
+public class Gotojail implements Square{
+    
+    int value;
+    boolean canBeOwned = false;
+
+    public Player getOwner(){
+    }
+    
+    public void handlePlayer (Player p){
+	p.inJail(true);              // makes guy go to jail
+    } 
+}
